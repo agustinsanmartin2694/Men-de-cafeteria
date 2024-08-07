@@ -1,8 +1,8 @@
 {
-  "name": "men-de-cafeteria", //lo cambias
+  "name": "men-de-cafeteria", 
   "version": "1.0.0",
   "description": "Un proyecto estático desplegado en Vercel",
-  "main": "Menucafeteria.html", //lo cambias
+  "main": "Menucafeteria.html", 
   "scripts": {
     "start": "echo 'No se necesita un script de inicio para un proyecto estático.'"
   },
@@ -10,7 +10,7 @@
     "static",
     "vercel"
   ],
-  "author": "Agustin San Martin", //lo cambias
+  "author": "Agustin San Martin", 
   "license": "ISC"
 }
 
