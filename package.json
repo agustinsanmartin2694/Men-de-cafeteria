@@ -2,7 +2,7 @@
   "name": "men-de-cafeteria", 
   "version": "1.0.0",
   "description": "Un proyecto estático desplegado en Vercel",
-  "main": "Menucafeteria.html", 
+  "main": "index.html", 
   "scripts": {
     "start": "echo 'No se necesita un script de inicio para un proyecto estático.'"
   },
